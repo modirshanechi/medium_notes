@@ -1,0 +1,3 @@
+module MediumRandomNotes
+
+end # module
